@@ -15,40 +15,6 @@ I’m **Sri Sai Deep Duduka**, a final-year B.Tech student in **Electronics & Co
 
 I enjoy projects that live at the intersection of **electronics, code, and real-world constraints**.
 
----
-
-## 🛠️ Tools & Technologies
-
-**Languages**
-- C / C++
-- Python
-- MicroPython
-- Java
-- Verilog
-
-**Hardware & Platforms**
-- ESP32, Arduino, Raspberry Pi
-- Jetson Nano
-- FPGA
-
-**Software & Frameworks**
-- Arduino IDE, Thonny 
-- MATLAB, Simulink
-- LTspice, KiCad, Cadence
-
-**Domains**
-- Embedded Systems  
-- Robotics
-- Control Systems
- 
----
-
-## 📫 How to reach me
-
-- 📧 Email: **saideepduduka@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/saideepduduka**
-- 🌐 GitHub: You’re already here 😉
-
 I’m always happy to talk about robotics, embedded systems, research ideas, or just cool engineering problems.
 
 ---
