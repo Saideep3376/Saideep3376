@@ -8,7 +8,7 @@ I’m **Sri Sai Deep Duduka**, a final-year B.Tech student in **Electronics & Co
 
 ## 🚧 What I’m currently working on
 
-- ESP Based PLCs
+- ESP32 Based PLCs
 - Autonomous Underwater Vehicle (AUV) 
 - Embedded firmware using **ESP32, Raspberry Pi Pico, and Arduino**
 - CAN, UART, I2C based communication system
